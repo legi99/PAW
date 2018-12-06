@@ -5,6 +5,7 @@ language: php
 #->versi php
 php : 
   - 7.2.7
+  
 
 branches :
   only:
